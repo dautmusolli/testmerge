@@ -1,1 +1,2 @@
 # testmerge
+New text
